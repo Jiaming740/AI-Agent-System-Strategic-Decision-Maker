@@ -1,6 +1,6 @@
-# AI-Agent-System-Strategic-Decision-Maker
-A multi-agent collaborative framework designed for enterprise strategic decision-making, featuring dynamic semantic alignment and task consistency protocols across heterogeneous AI agents.
-# MAS-SDM: Multi-Agent System for Strategic Decision-Making 
+# AI-Agent-System-Strategic-Decision-Maker (MAS-SDM)
+
+> A multi-agent collaborative framework designed for enterprise strategic decision-making, featuring dynamic semantic alignment and task consistency protocols across heterogeneous AI agents.
 
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-Google%20ADK%20%7C%20AutoGen-success)
@@ -29,26 +29,22 @@ The system operates through a collaborative network of 5 heterogeneous AI Agents
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/your-username/MAS-Strategic-Decision-Maker.git](https://github.com/your-username/MAS-Strategic-Decision-Maker.git)
-cd MAS-Strategic-Decision-Maker
+git clone https://github.com/your-username/AI-Agent-System-Strategic-Decision-Maker.git
+cd AI-Agent-System-Strategic-Decision-Maker
+```
 
 **2. Install dependencies**
 ```bash
 pip install -r requirements.txt
+```
 
 **3. Run the prototype system**
-Bash
+```bash
 python main.py
-Note: This prototype utilizes mocked asynchronous LLM calls for immediate local demonstration. External API keys are not required to run and verify the core orchestration logic.
+*Note: This prototype utilizes mocked asynchronous LLM calls for immediate local demonstration. External API keys are not required to run and verify the core orchestration logic.*
+```
+## 👨‍💻 Author
 
-**👨‍💻 Author**
-Jiaming
-Research Focus: Artificial Intelligence & Strategic Management
+**Jiaming**
 
-**📄 License**
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-*(Note: I omitted the conversational sentence "Would you like me to walk you through..." from the actual code block so your GitHub page stays clean and professional!)*
-
-Would you like me to provide the terminal commands (`git init`, `git add .`, `git com
+*Research Focus: Artificial Intelligence & Strategic Management*
