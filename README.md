@@ -33,11 +33,10 @@ git clone [https://github.com/your-username/MAS-Strategic-Decision-Maker.git](ht
 cd MAS-Strategic-Decision-Maker
 
 **2. Install dependencies**
-
-Bash
+```bash
 pip install -r requirements.txt
-**3. Run the prototype system**
 
+**3. Run the prototype system**
 Bash
 python main.py
 Note: This prototype utilizes mocked asynchronous LLM calls for immediate local demonstration. External API keys are not required to run and verify the core orchestration logic.
