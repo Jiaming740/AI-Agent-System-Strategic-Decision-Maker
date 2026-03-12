@@ -32,21 +32,21 @@ The system operates through a collaborative network of 5 heterogeneous AI Agents
 git clone [https://github.com/your-username/MAS-Strategic-Decision-Maker.git](https://github.com/your-username/MAS-Strategic-Decision-Maker.git)
 cd MAS-Strategic-Decision-Maker
 
-**2. Install dependencies
+**2. Install dependencies**
 
 Bash
 pip install -r requirements.txt
-**3. Run the prototype system
+**3. Run the prototype system**
 
 Bash
 python main.py
 Note: This prototype utilizes mocked asynchronous LLM calls for immediate local demonstration. External API keys are not required to run and verify the core orchestration logic.
 
-**👨‍💻 Author
+**👨‍💻 Author**
 Jiaming
 Research Focus: Artificial Intelligence & Strategic Management
 
-**📄 License
+**📄 License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
