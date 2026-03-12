@@ -1,4 +1,4 @@
-# AI-Agent-System-for-Strategic-Decision-Maker (MAS-SDM)
+# AI-Agent-System-Strategic-Decision-Maker (MAS-SDM)
 
 > A multi-agent collaborative framework designed for enterprise strategic decision-making, featuring dynamic semantic alignment and task consistency protocols across heterogeneous AI agents.
 
